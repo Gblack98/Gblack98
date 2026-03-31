@@ -1,50 +1,52 @@
-# Ibrahima Gabar Diop
+<h1 align="center">Hi 👋, I'm Ibrahima Gabar Diop</h1>
+<h3 align="center">Data Engineer · Data Scientist · Thiès, Senegal</h3>
 
-Data Engineer based in Thiès, Senegal. I design and build data pipelines, model data for analytics, and occasionally cross into AI/ML when the problem calls for it. Most of my day-to-day is about making data reliable, accessible, and useful — the infrastructure side of the work.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gblack98&label=Profile%20views&color=0e75b6&style=flat" alt="gblack98" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gblack98" alt="gblack98" /></a> </p>
 
-## What I do
+- 🔭 I'm currently working at **[Rubyx](https://www.rubyx.io)** as a Data Engineer
 
-**Data Engineering** — pipeline design, data modeling, ETL/ELT, orchestration, warehousing. I've worked with tools like dbt, Airflow, and ElasticSearch, and I care about data quality and schema design as much as the end result.
+- 🎓 MSc in Big Data Analytics at **UNCHK** · BSc in Mathematics & Computer Science
 
-**Data Science** — predictive modeling, classification, time series, EDA. This is where I started and it still informs how I approach engineering problems — I build pipelines with the downstream analyst or model in mind.
+- 🌱 Building data pipelines, modeling data for analytics, and occasionally crossing into AI/ML
 
-**AI on the side** — computer vision, NLP, LLM-powered applications. Not my main focus professionally right now, but I keep building.
+- 🏆 Competed on **Zindi**, **Kaggle**, **GalsenAI** and **Devpost**
 
----
+- 💬 Ask me about **data engineering, machine learning, computer vision, LLM integration**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ibrahima-gabar-d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahima-gabar-d" height="30" width="40" /></a>
+<a href="https://kaggle.com/gblack98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gblack98" height="30" width="40" /></a>
+</p>
 
-**[PestAI](https://github.com/Gblack98/AbiHack2025_PestAI)** — Crop pest detection for Senegalese farmers. Photo → AI diagnosis → audio response in Wolof. FastAPI backend on Vercel, Gemini Vision for analysis, Flutter mobile app, Wolof TTS via HuggingFace. Built during AbiHack 2025.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/></a>
+</p>
 
-**[Diop Family Tree](https://github.com/Gblack98/diop-family-tree-25794)** — Genealogy platform for a 225-member Senegalese family. Includes an AI assistant (Gabar) that answers questions about family members in French, English, Wolof, or Arabic — grounded strictly on the family database, no hallucinations. React + TypeScript + Supabase + Groq.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gblack98&show_icons=true&locale=en&layout=compact" alt="gblack98" /></p>
 
-**[ElasticSearch Engine](https://github.com/Gblack98/ElasticSearch)** — Custom search engine built on Elasticsearch. Indexing, querying, relevance tuning.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gblack98&show_icons=true&locale=en" alt="gblack98" /></p>
 
-**[Retail Sales Forecasting](https://github.com/Gblack98/Analyse-predictive-des-ventes-pour-une-entreprise-de-retail.)** — End-to-end predictive pipeline for a retail business.
-
-**[Bank Client Churn](https://github.com/Gblack98/Churn_Client_Banque)** / **[Employee Attrition](https://github.com/Gblack98/Employee-Attrition-Prediction-Using-Machine-Learning)** — Classification pipelines on structured business data.
-
-**[Fraud Detection](https://github.com/Gblack98/GalsenAI-s-Fraud-Detection-Competition)** — Competition entry for GalsenAI's fraud detection challenge.
-
-**Computer Vision** — [Pest recognition](https://github.com/Gblack98/Systeme-de-Reconnaissance-de-Ravageur), [potato leaf diseases](https://github.com/Gblack98/potato_leaf_diseases-), [facial recognition](https://github.com/Gblack98/Gblack98-Systeme-de-Reconnaissance-Faciale), [YOLO object detection](https://github.com/Gblack98/CCTV_YOLO).
-
-**Dashboards & Analytics** — [Streamlit dashboards](https://github.com/Gblack98/Dashboarding), [sentiment analysis](https://github.com/Gblack98/Interactive-Dashboards-with-Streamlit-and-Python), [web scraping](https://github.com/Gblack98/British-Airways-Scrapping), [R analytics](https://github.com/Gblack98/diamonds-analytics).
-
----
-
-## Stack
-
-**Data Engineering** — dbt, Airflow, SQL, ElasticSearch, Supabase, ETL pipelines
-**Data Science** — Python, Pandas, scikit-learn, TensorFlow, PyTorch, R
-**AI/ML** — Gemini API, Groq, LLM integration, computer vision, NLP
-**Backend** — FastAPI, Node.js, Django
-**Frontend** — React, TypeScript, Flutter, Streamlit
-**Infra** — Vercel, Docker, Git
-
----
-
-BSc in Mathematics & Computer Science. Currently completing an MSc in Big Data Analytics at UNCHK (Université Cheikh Hamidou Kane). Supplemented with Sonatel Academy and Force-N training. Competed on GalsenAI, Zindi, Kaggle, and Devpost. Building things that work in West African contexts.
-
-*Open to collaboration — Thiès, Senegal*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gblack98&" alt="gblack98" /></p>
