@@ -33,6 +33,7 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 **AI / ML**
@@ -62,8 +63,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**PestAI**](https://github.com/Gblack98/AbiHack2025_PestAI) | AI-powered crop pest detection with Wolof voice support — AbiHack 2025 | FastAPI · Gemini · Flutter · Cloudinary |
-| [**Diop Family Tree**](https://github.com/Gblack98/diop-family-tree-25794) | Interactive genealogy platform with AI chatbot (RAG) and archive system | React · Supabase · Groq · Vercel |
+| [**PestAI**](https://github.com/Gblack98/AbiHack2025_PestAI) | AI-powered crop pest detection with Wolof voice support — AbiHack 2025 · [live ↗](https://pestai-gblack98.vercel.app) | FastAPI · Gemini · Flutter · Cloudinary |
+| [**BNPL Risk Engine**](https://github.com/Gblack98/bnpl-risk-engine) | Buy Now Pay Later real-time risk scoring engine — FastAPI + Supabase + ML model serving | FastAPI · Supabase · Python |
 | [**dbt Advanced Patterns**](https://github.com/Gblack98/dbt-advanced-patterns) | Production-grade dbt project: incremental models, SCD2, contracts, slim CI | dbt · DuckDB · GitHub Actions |
 
 ---
