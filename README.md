@@ -63,7 +63,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**PestAI**](https://github.com/Gblack98/AbiHack2025_PestAI) | AI-powered crop pest detection with Wolof voice support — AbiHack 2025 | FastAPI · Gemini · Flutter · Cloudinary |
+| [**PestAI**](https://github.com/Gblack98/AbiHack2025_PestAI) | AI-powered crop pest detection with Wolof voice support — AbiHack 2025 · [API docs ↗](https://pestai-gblack98.vercel.app/docs) · [APK ↗](https://github.com/Gblack98/PestAI-Mobile/releases/tag/v12.0.0) | FastAPI · Gemini · Flutter · Cloudinary |
 | [**BNPL Risk Engine**](https://github.com/Gblack98/bnpl-risk-engine) | Buy Now Pay Later real-time risk scoring engine — FastAPI + Supabase + ML model serving | FastAPI · Supabase · Python |
 | [**dbt Advanced Patterns**](https://github.com/Gblack98/dbt-advanced-patterns) | Production-grade dbt project: incremental models, SCD2, contracts, slim CI | dbt · DuckDB · GitHub Actions |
 
