@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:4FC3F7&height=190&section=header&text=Ibrahima%20Gabar%20Diop&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Developer%20%C2%B7%20Thi%C3%A8s%2C%20Senegal&descAlignY=57&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:4FC3F7&height=190&section=header&text=Ibrahima%20Gabar%20Diop&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Data+Engineer+%40+Rubyx;I+turn+raw+data+into+credit+decisions;Airflow+%C2%B7+dbt+%C2%B7+FastAPI+%C2%B7+LightGBM;Building+data+platforms+for+African+fintech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Data+Engineer+%40+Rubyx;I+turn+raw+data+into+clean+decisions;Airflow+%7C+dbt+%7C+LightGBM+%7C+FastAPI;Building+for+African+fintech+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ibrahima-gabar-d/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/ibrahimagabardiop"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gblack98&style=flat-square&color=4FC3F7&label=Profile+Views" alt="Profile views" />
+  <a href="mailto:ibrahimagabardiop98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square" alt="Open to opportunities" />
+  <img src="https://komarev.com/ghpvc/?username=Gblack98&style=flat-square&color=4FC3F7&label=Profile+Views" alt="Profile views" />
 </p>
 
-> **Data Engineer at [Rubyx](https://www.rubyx.io)**, working on lending analytics for financial institutions. On this profile you'll find what I build around one theme I care about: **data & AI for financial inclusion in West Africa** — production-style pipelines, credit-risk ML, and AI products for the field.
+> **Data Engineer at [Rubyx](https://www.rubyx.io)**, working on lending analytics for financial institutions. On this profile you'll find what I build around one theme I care about: **data & AI for financial inclusion in Africa** 🌍
 
 ---
 
@@ -35,9 +37,9 @@ flowchart LR
 
 | Project | The story | Stack |
 |---------|-----------|-------|
-| ⚡ [**BNPL Risk Engine**](https://github.com/Gblack98/bnpl-risk-engine) | Real-time Buy-Now-Pay-Later risk scoring API — rule knockouts + LightGBM decisioning (**ROC-AUC 0.85**), fully tested & containerized | FastAPI · LightGBM · Docker |
-| 🌍 [**West Africa Financial Inclusion**](https://github.com/Gblack98/west-africa-financial-inclusion) | Real-data ELT pipeline on financial inclusion across WAEMU countries: World Bank API → Airflow → DuckDB → dbt marts | Airflow · DuckDB · dbt |
-| 🌾 [**GblackAI**](https://github.com/Gblack98/GblackAI-API) | AI crop pest & disease detection with **Wolof voice support**, built for AbiHack 2025 — [live API docs ↗](https://pestai-gblack98.vercel.app/docs) · [Flutter app ↗](https://github.com/Gblack98/GblackAI-Mobile) | FastAPI · Gemini · Flutter |
+| ⚡ [**BNPL Risk Engine**](https://github.com/Gblack98/bnpl-risk-engine) | Real-time Buy-Now-Pay-Later risk scoring API — rule knockouts + LightGBM decisioning (**ROC-AUC 0.85**), fully tested & Dockerized | FastAPI · LightGBM · Docker |
+| 🌍 [**West Africa Financial Inclusion**](https://github.com/Gblack98/west-africa-financial-inclusion) | Real-data ELT pipeline on financial inclusion across WAEMU countries: World Bank API → dbt → BigQuery → dashboard | Airflow · dbt · BigQuery |
+| 🌾 [**GblackAI**](https://github.com/Gblack98/GblackAI-API) | AI crop pest & disease detection with **Wolof voice support**, built for AbiHack 2025 — [live API docs ↗](https://pestai-gblackapi.onrender.com/docs) | PyTorch · FastAPI · Flutter |
 
 ---
 
@@ -52,6 +54,8 @@ flowchart LR
 | [airflow-dbt-cloud-orchestration](https://github.com/Gblack98/airflow-dbt-cloud-orchestration) | Full orchestration of dbt Cloud jobs — manifest parsing, quality gates, intelligent alerting |
 | [airflow-cloud-data-platform](https://github.com/Gblack98/airflow-cloud-data-platform) | Production patterns: dynamic task mapping, Kubernetes, custom XCom backend, cost optimization |
 
+---
+
 ## 🧱 Analytics Engineering — dbt
 
 *Because a metric nobody trusts is a metric nobody uses.*
@@ -62,6 +66,8 @@ flowchart LR
 | [dbt-testing-and-data-quality](https://github.com/Gblack98/dbt-testing-and-data-quality) | Testing framework with custom macros, automated data-quality monitoring, CI quality gates |
 | [credit-scoring-dbt](https://github.com/Gblack98/credit-scoring-dbt) | Raw fintech transactions → ML-ready credit features, engineered in dbt |
 | [digital-lending-analytics-dbt](https://github.com/Gblack98/digital-lending-analytics-dbt) | Data warehouse & BI for digital lending — loan portfolio KPIs and cohort analysis |
+
+---
 
 ## 🤖 Machine Learning — credit risk & fraud
 
@@ -135,16 +141,16 @@ models:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gblack98&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gblack98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gblack98&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gblack98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2000&pause=500&color=FF3333&center=true&vCenter=true&width=750&height=80&lines=One+pipeline+to+rule+them+all%2C;One+model+to+find+them%2C;One+deployment+to+bring+them+all%2C;And+in+the+darkness+serve+them.+%F0%9F%94%A5" alt="One pipeline to rule them all" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=2000&pause=500&color=4FC3F7&center=true&vCenter=true&width=750&height=80&lines=One+pipeline+to+rule+them+all" alt="footer quote" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0000,100:8B0000&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1b4965,100:0d1b2a&height=100&section=footer" alt="footer" />
 </p>
