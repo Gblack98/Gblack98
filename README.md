@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-igd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4FC3F7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/ibrahima-gabar-d/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/ibrahimagabardiop"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="mailto:ibrahimagabardiop98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -39,7 +40,7 @@ flowchart LR
 |---------|-----------|-------|
 | ⚡ [**BNPL Risk Engine**](https://github.com/Gblack98/bnpl-risk-engine) | Real-time Buy-Now-Pay-Later risk scoring API — rule knockouts + LightGBM decisioning (**ROC-AUC 0.85**), fully tested & Dockerized | FastAPI · LightGBM · Docker |
 | 🌍 [**West Africa Financial Inclusion**](https://github.com/Gblack98/west-africa-financial-inclusion) | Real-data ELT pipeline on financial inclusion across WAEMU countries: World Bank API → dbt → BigQuery → dashboard | Airflow · dbt · BigQuery |
-| 🌾 [**GblackAI**](https://github.com/Gblack98/GblackAI-API) | AI crop pest & disease detection with **Wolof voice support**, built for AbiHack 2025 — [live API docs ↗](https://pestai-gblackapi.onrender.com/docs) | PyTorch · FastAPI · Flutter |
+| 🌾 [**GblackAI**](https://github.com/Gblack98/GblackAI-API) | AI crop pest & disease detection with **Wolof voice support**, built for AbiHack 2025 | PyTorch · FastAPI · Flutter |
 
 ---
 
