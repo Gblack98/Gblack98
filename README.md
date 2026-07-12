@@ -40,7 +40,7 @@ flowchart LR
 |---------|-----------|-------|
 | ⚡ [**BNPL Risk Engine**](https://github.com/Gblack98/bnpl-risk-engine) | Real-time Buy-Now-Pay-Later risk scoring API — rule knockouts + LightGBM decisioning (**ROC-AUC 0.85**), fully tested & Dockerized | FastAPI · LightGBM · Docker |
 | 🌍 [**West Africa Financial Inclusion**](https://github.com/Gblack98/west-africa-financial-inclusion) | Real-data ELT pipeline on financial inclusion across WAEMU countries: World Bank API → dbt → BigQuery → dashboard | Airflow · dbt · BigQuery |
-| 🌾 [**GblackAI**](https://github.com/Gblack98/GblackAI-API) | AI crop pest & disease detection with **Wolof voice support**, built for AbiHack 2025 | PyTorch · FastAPI · Flutter |
+| 🌾 [**GblackAI**](https://github.com/Gblack98/GblackAI-API) | AI crop pest & disease detection with **Wolof voice support**, built for AbiHack 2025 — [live API docs ↗](https://pestai-api.vercel.app/docs) | PyTorch · FastAPI · Flutter |
 
 ---
 
